@@ -9,10 +9,10 @@ Atualmente exerço uma outra profissão, mas estou em transição de carreira. M
 O que estou estudando atualmente: </br>
 ![swift](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![swift](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![swift](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) </br>
+![swift](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) </br>
 </br>
 O que pretendo estudar em seguida: </br>
-Phyton, PHP e outros.
+JS, PHP e outros.
 #
 
 ### Mais sobre o meu Github
