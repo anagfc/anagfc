@@ -18,7 +18,7 @@ JS, PHP e outros.
 ### Mais sobre o meu Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagfc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagfc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagfc&layout=compact&langs_count=7&theme=dark)
 #
 
 <!--
