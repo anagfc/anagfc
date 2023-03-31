@@ -1,8 +1,8 @@
 ## Olá! 👋
 
 ### Biografia
-Meu nome é Ana Gabriela, tenho 24 anos e sou de Minas Gerais. </br>
-Atualmente exerço uma outra profissão, mas estou em transição de carreira. Meu objetivo é conseguir me inserir na carreira de dev aos poucos, até finalmente migrar por completo.
+Meu nome é Ana Gabriela, tenho 25 anos e sou de Minas Gerais. </br>
+Atualmente exerço uma outra profissão, mas estou em transição de carreira. Meu objetivo é conseguir me inserir na carreira de dev aos poucos, até finalmente migrar por completo. Recentemente iniciei minha segunda graduação: Análise e Desenvolvimento de Sistemas.
 #
 
 ### Habilidades
@@ -27,7 +27,7 @@ JS, PHP e outros.
 -->
 
 ### Contato
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ana-gabriela-fonseca-57b7aa257/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ana-gabriela-fonseca-chaves/)
 #
 <!--
 **anagfc/anagfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
