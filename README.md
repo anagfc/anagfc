@@ -1,11 +1,11 @@
 ## Olá! 👋
 
 ### Biografia
-Meu nome é Ana Gabriela, tenho 25 anos e sou de Minas Gerais. </br>
-Atualmente exerço uma outra profissão, mas estou em transição de carreira. Meu objetivo é conseguir me inserir na carreira de dev aos poucos, até finalmente migrar por completo. Recentemente iniciei minha segunda graduação: Análise e Desenvolvimento de Sistemas.
+Meu nome é Ana Gabriela, tenho 27 anos e sou de Minas Gerais. </br>
+Atualmente exerço uma outra profissão, mas pretendo iniciar uma transição de carreira. Meu objetivo é conseguir me inserir na área aos poucos, até finalmente migrar por completo. Recentemente iniciei minha segunda graduação: Análise e Desenvolvimento de Sistemas na PUC Minas.
 #
 
-### Habilidades
+<!-- ### Habilidades
 O que estou estudando atualmente: </br>
 ![swift](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![swift](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,7 +13,8 @@ O que estou estudando atualmente: </br>
 </br>
 O que pretendo estudar em seguida: </br>
 JS, PHP e outros.
-#
+# -->
+
 
 ### Mais sobre o meu Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagfc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
