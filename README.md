@@ -3,7 +3,7 @@
 ### Biografia
 Meu nome é Ana Gabriela, tenho 27 anos e sou de Minas Gerais. </br>
 Atualmente exerço uma outra profissão, mas pretendo iniciar uma transição de carreira num futuro próximo. Meu objetivo é conseguir me inserir na área aos poucos até finalmente migrar por completo.</br>
-No ano de 2025 iniciei minha segunda graduação: Análise e Desenvolvimento de Sistemas na PUC Minas.
+No ano de 2025, iniciei minha segunda graduação: Análise e Desenvolvimento de Sistemas na PUC Minas.
 #
 
 <!-- ### Habilidades
