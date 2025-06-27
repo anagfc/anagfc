@@ -9,8 +9,15 @@ No ano de 2025, iniciei minha graduação em Análise e Desenvolvimento de Siste
 
 ### Projetos
 
-#### [ReAlimentar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar)
-Meu projeto mais recente está sendo desenvolvido através da disciplina "Projeto: Desenvolvimento de Aplicação Web Front-End". Ele é intitulado "ReAlimentar" e faz parte dos requisitos de aprovação do primeiro semestre do curso de ADS. A ideia do projeto ReAlimentar é ser uma plataforma em que seja possível atuar no auxílio logístico da redistribuição de alimentos ainda próprios para consumo para indivíduos e instituições necessitadas. Nesse trabalho, ao lado de mais um colega, fui responsável pela parte que abrange o perfil do doador.
+#### ReAlimentar <!--[ReAlimentar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar) https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar/codigo-fonte/-->
+Meu projeto mais recente está sendo desenvolvido através da disciplina "Projeto: Desenvolvimento de Aplicação Web Front-End". Ele é intitulado "ReAlimentar" e faz parte dos requisitos de aprovação do primeiro semestre do curso de ADS. A ideia do projeto ReAlimentar é ser uma plataforma em que seja possível atuar no auxílio logístico da redistribuição de alimentos ainda próprios para consumo para indivíduos e instituições necessitadas. Nesse trabalho, ao lado de mais um colega, fui responsável pela parte que abrange o perfil do doador. Também realizei o desenvolvimento da parte referente ao perfil de donatário e auxiliei na implementação de recursos do voluntário.
+
+<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar"  target="_blank">
+  <img src="https://img.shields.io/badge/▶️ Acessar%20o%20código%20e%20a%20documentação-black?style=for-the-badge" alt="Ver o código">
+</a>
+<a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar/codigo-fonte/"  target="_blank">
+  <img src="https://img.shields.io/badge/▶️ Acessar%20o%20site-black?style=for-the-badge" alt="Ver o site">
+</a>
 
 
 
