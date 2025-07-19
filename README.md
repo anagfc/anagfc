@@ -3,14 +3,22 @@
 ### Biografia
 Meu nome é Ana Gabriela, tenho 27 anos e sou de Minas Gerais. </br>
 
-No ano de 2025, iniciei minha graduação em Análise e Desenvolvimento de Sistemas pela PUC Minas, profissão que pretendo exercer integralmente num futuro próximo. Sou licenciada em Letras - Português/Inglês pela UEMG e atualmente exerço a profissão de professora da rede estadual de ensino.
+No ano de 2025, iniciei minha graduação em Análise e Desenvolvimento de Sistemas pela PUC Minas, profissão para a qual pretendo migrar num futuro próximo. Sou licenciada em Letras - Português/Inglês pela UEMG (2019) e desde 2020 exerço a profissão de professora de educação básica da rede estadual de ensino.
 
 #
 
 ### Projetos
 
 #### ReAlimentar <!--[ReAlimentar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar) https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar/codigo-fonte/-->
-Meu projeto mais recente está sendo desenvolvido através da disciplina "Projeto: Desenvolvimento de Aplicação Web Front-End". Ele é intitulado "ReAlimentar" e faz parte dos requisitos de aprovação do primeiro semestre do curso de ADS. A ideia do projeto ReAlimentar é ser uma plataforma em que seja possível atuar no auxílio logístico da redistribuição de alimentos ainda próprios para consumo para indivíduos e instituições necessitadas. Nesse trabalho, ao lado de mais um colega, fui responsável pela parte que abrange o perfil do doador. Também realizei o desenvolvimento da parte referente ao perfil de donatário e auxiliei na implementação de recursos do voluntário.
+###### Contexto:
+Meu projeto mais recente foi desenvolvido dentro da graduação, através da disciplina "Projeto: Desenvolvimento de Aplicação Web Front-End". Intitulado "ReAlimentar", ele fez parte dos requisitos de aprovação do primeiro semestre do curso de ADS.
+##### Conceito:
+A ideia do projeto ReAlimentar é ser uma plataforma que viabiliza auxílio logístico na redistribuição de alimentos próprios para consumo que seriam descartados por empresas ou pessoas físicas, contribuindo para que eles cheguem devidamente até instituições e indivíduos necessitados.
+#### Papel:
+Nesse trabalho, ao lado de mais um colega, fui responsável pela parte que abrange o perfil do doador. Também realizei o desenvolvimento da parte referente ao perfil de donatário, auxiliei na implementação de recursos do voluntário e participei da criação estética e da revisão do artefato final.
+<!--
+#### Detalhes:
+O projeto "ReAlimentar" foi apresentado no SEMPEX, seminário -->
 
 <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar"  target="_blank">
   <img src="https://img.shields.io/badge/▶️ Acessar%20o%20código%20e%20a%20documentação-black?style=for-the-badge" alt="Ver o código">
