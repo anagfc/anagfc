@@ -3,13 +3,14 @@
 ### Biografia
 Meu nome é Ana Gabriela, tenho 27 anos e sou de Minas Gerais. </br>
 
-No ano de 2025, iniciei minha graduação em Análise e Desenvolvimento de Sistemas pela PUC Minas, profissão para a qual pretendo migrar num futuro próximo. Sou licenciada em Letras - Português/Inglês pela UEMG (2019) e desde 2020 exerço a profissão de professora de educação básica da rede estadual de ensino.
+No 1º semestre do ano de 2025, iniciei minha graduação em Análise e Desenvolvimento de Sistemas pela PUC Minas, profissão para a qual pretendo migrar num futuro próximo. Sou licenciada em Letras - Português/Inglês pela UEMG (2019) e desde 2020 exerço a profissão de professora de educação básica da rede estadual de ensino.
 
 #
 
 ### Projetos
 
 #### ReAlimentar <!--[ReAlimentar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar) https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar/codigo-fonte/-->
+_O projeto foi escolhido pela instituição como destaque do Eixo 1 do 1º Semestre de 2025 e apresentado na Mostra de Projetos do curso._
 ###### Contexto:
 Meu projeto mais recente foi desenvolvido dentro da graduação, através da disciplina "Projeto: Desenvolvimento de Aplicação Web Front-End". Intitulado "ReAlimentar", ele fez parte dos requisitos de aprovação do primeiro semestre do curso de ADS.
 ##### Conceito:
