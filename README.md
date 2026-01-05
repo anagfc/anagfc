@@ -3,7 +3,7 @@
 <p align="center">
 Comunicação e Tecnologia • Desenvolvedora em formação <br>
 Minas Gerais - Brasil<br><br>
-<i>Graduada em Letras (Português/Inglês e suas licenciaturas) pela UEMG • Cursando Análise e Desenvolvimento de Sistemas pela PUC Minas Virtual</i>
+<i>Graduada em Letras (Português/Inglês e suas literaturas) pela UEMG • Cursando Análise e Desenvolvimento de Sistemas pela PUC Minas Virtual</i>
 </p><br>
 
 <div align="center">
