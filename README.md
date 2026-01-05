@@ -17,7 +17,7 @@ Minas Gerais - Brasil<br><br>
 
 ## ✨ Por trás do código
 
-Minha trajetória profissional tem início nas **linguagens humanas** com a licenciatura em Letras pela UEMG (2016 - 2019), em que pude aprofundar meu interesse e meus conhecimentos sobre o fenômeno da comunicação. O exercício dessa formação como professora e, posteriormente, no setor administrativo de escolas públicas (2020 - atual) me permitiu conhecer pessoas e suas pluraridades, contribuindo para minha percepção de suas mais diversas necessidades, realidades e aptidões. Além de poder conhecer mais a fundo os processos por trás do ofício e, com isso, avaliar suas carências e possibilidades de melhoria.<br><br>
+Minha trajetória profissional tem início nas **linguagens humanas** com a licenciatura em Letras pela UEMG (2016 - 2019), em que pude aprofundar meu interesse e meus conhecimentos sobre o fenômeno da comunicação. O exercício dessa formação como professora e, posteriormente, no setor administrativo de escolas públicas e privadas (2020 - atual) me permitiu conhecer pessoas e suas pluraridades, contribuindo para minha percepção de suas mais diversas necessidades, realidades e aptidões. Além de poder conhecer mais a fundo os processos por trás do ofício e, com isso, avaliar suas carências e possibilidades de melhoria.<br><br>
 
 Me aproximando da **tecnologia**, universo pelo qual sempre nutri curiosidade, encontrei um novo espaço para aplicar as habilidades adquiridas na minha primeira graduação, mas agora traduzidas em lógica, código e soluções digitais. Como sempre tive o desejo de contribuir com as pessoas, me aliar à tecnologia é como abrir uma porta que potencializa não somente essa vontade, mas também minha capacidade de ação.<br><br>
 
