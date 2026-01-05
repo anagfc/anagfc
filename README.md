@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Ana Gabiela</h1>
+<h1 align="center">👩‍💻 Ana Gabriela</h1>
 
 <p align="center">
 Comunicação e Tecnologia • Desenvolvedora em formação <br>
