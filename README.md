@@ -79,7 +79,12 @@ Projeto acadêmico desenvolvido para a conclusão do 3º semestre de graduação
 
 ## 📊 Um pouquinho de dados
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anagfc&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=anagfc&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagfc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
