@@ -49,28 +49,42 @@ Gosto de entender o porquê e o como das coisas, organizar ideias e transformar 
 ---
 
 
-## ⭐ Projeto em destaque
+## ⭐ Projetos em destaque
 
 ### 🍱 ReAlimentar
 
 Projeto acadêmico desenvolvido para a conclusão do 1º semestre da graduação em ADS, pensado para gerar impacto social real. Graças a isso, **foi escolhido pela instituição como destaque do Eixo 1 do 1º Semestre de 2025 e apresentado na Mostra de Projetos do curso**. Esse projeto representa bem minha forma de pensar tecnologia: organização, responsabilidade social e foco em pessoas e suas necessidades.
 
-**Conceito:** A ideia do projeto ReAlimentar é ser uma plataforma que viabiliza auxílio logístico na redistribuição de alimentos próprios para consumo que seriam descartados por empresas ou pessoas físicas, contribuindo para que eles cheguem devidamente até instituições e indivíduos necessitados.
+**Conceito:** A ideia do projeto "ReAlimentar" é ser uma plataforma que viabiliza auxílio logístico na redistribuição de alimentos próprios para consumo que seriam descartados por empresas ou pessoas físicas, contribuindo para que eles cheguem devidamente até instituições e indivíduos necessitados.
 
 **Papel:** Nesse trabalho, ao lado de mais um colega, fui responsável pela parte que abrange o perfil do doador. Também realizei o desenvolvimento da parte referente ao perfil de donatário, auxiliei na implementação de recursos do voluntário e participei da criação estética e da revisão do artefato final. <br>
 
 [![Acessar o código e a documentação](https://img.shields.io/badge/⚙️%20Acessar%20o%20código%20e%20a%20documentação-gray?style=for-the-badge)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar) [![Acessar o site](https://img.shields.io/badge/💻%20Acessar%20o%20site-gray?style=for-the-badge)](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-1-e1-proj-web-t12-pmv-ads-2025-1-e1-proj-realimentar/codigo-fonte/)
 
+
+<br>
+
+### 🛠 Tá na mão!
+
+Projeto acadêmico desenvolvido para a conclusão do 3º semestre de graduação em ADS, idealizado para atender às principais necessidades de microempreendedores individuais (MEIs) e profissionais autônomos, amenizando suas dificuldades para manter o negócio. O projeto surgiu a partir da identificação de desafios comuns enfrentados por esses trabalhadores, como a dificuldade de gerenciar o próprio negócio e conquistar novos clientes, propondo uma solução integrada que alia tecnologia, praticidade e incentivo ao empreendedorismo.
+
+**Conceito:** O "Tá na Mão!" é uma plataforma que reúne ferramentas para gestão e operação de pequenos negócios em um único ambiente. Além de recursos para organização de serviços, clientes e finanças, o sistema conta com um marketplace voltado à aproximação entre prestadores de serviços e potenciais clientes, ampliando a visibilidade desses profissionais e facilitando a contratação de forma simples, rápida e acessível.
+
+**Papel:** Nesse trabalho, idealizei o conceito do projeto e atuei como Product Owner, determinando e delimitando funcionalidades. Contribuí com a estruturação do banco de dados e desenvolvi a parte referente às solicitações de serviço. <br>
+
+[![Acessar o código e a documentação](https://img.shields.io/badge/⚙️%20Acessar%20o%20código%20e%20a%20documentação-gray?style=for-the-badge)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-1-e3-proj-mov-t1-t1grupo4)
+
+
 ---
 
 ## 📊 Um pouquinho de dados
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=anagfc&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagfc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagfc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagfc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagfc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 ---
 
